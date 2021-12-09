@@ -1,6 +1,9 @@
-package com.ocodetest.survey.entity;
+package com.ocodetest.survey.payload.response;
 
 
+
+import com.ocodetest.survey.entity.Answer;
+import com.ocodetest.survey.entity.Question;
 
 import java.util.ArrayList;
 import java.util.List;
